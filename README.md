@@ -1,4 +1,4 @@
-- 👋 Hi, I’m laila
+- 👋 Hi, I’m laila! 
 - 👩‍💻 Studing : Data Science and Artificial Intelligence
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: 💻Design,🖌Drawing, 👨‍🍳Cooking,🎶Music...
