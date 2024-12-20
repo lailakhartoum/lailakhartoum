@@ -1,12 +1,16 @@
-# Hi 👋 My name is Laila 
+# Hi 👋 My name is Laila Khartoum
 
-👩‍💻 Studing : Data Science and Artificial Intelligence
+👩‍🎓 **Studying**: Data Science and Artificial Intelligence
 
-📩 How to reach me : lailakartoum@gmail.com
+📍 **Location**: Morocco - Agadir  
 
-😄 Pronouns: She/Her
+📩 **Contact**: lailakartoum@gmail.com
 
-⚡ Fun fact: 💻Design,🖌Drawing,...
+😄 **Pronouns**: She/Her
+
+✨ **Fun Facts**:  
+- 💻 Passion for design  
+- 🎨 Love for drawing
 
 ### Skills
 
