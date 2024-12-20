@@ -34,3 +34,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/laila-khartoum-9a92492a3)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=social)](https://www.instagram.com/laila_khartoum?igsh=MXI0emtnaWRnaDduMQ==)  
 
+## 📊 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+
